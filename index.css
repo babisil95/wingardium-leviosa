@@ -22,9 +22,9 @@ header img{
     border: 15px solid #CD5C5C;
 }
 .content{
-max-width: 900px;
+max-width: auto;
 margin: auto; 
-background-color: #98EE98;
+background-color: #FFCD90;
 padding: 20px;
 text-align: justify;
 
@@ -64,3 +64,7 @@ footer{
 	font-style: italic;
 }
 
+li{
+	list-style:none;
+	text-align: center;
+	}
