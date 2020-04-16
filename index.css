@@ -30,6 +30,7 @@ padding: 20px;
 text-align: justify;
 font-family: 'Raleway', sans-serif;
 
+
 }
 img.foto-grande{
 	max-width: 100%;
@@ -58,6 +59,7 @@ p{
 	padding-bottom: 20px;
 }
 ol, ul{
+	text-align: center;
 	font-size: 17px;
 	font-family: 'Raleway', sans-serif;
 	padding-bottom: 20px;
