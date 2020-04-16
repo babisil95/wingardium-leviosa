@@ -49,14 +49,14 @@ img.foto-grande{
 	padding-bottom: 10px;
 }
 .maledetto {
-	padding-top:25px;
+	padding-bottom: 20px;
 }
 h2{
 	text-align: center;
 	font-style: italic;
 	font-size: 26px;
 	font-family: 'Raleway', sans-serif;
-	padding: 10px;
+	padding-bottom: 20px;
 	background-color: white;
 	justify-content: center;
 }
