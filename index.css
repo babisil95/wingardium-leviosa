@@ -26,7 +26,6 @@ header img{
 max-width: auto;
 margin: auto; 
 background: linear-gradient(35deg, #ccffff, #ffcccc);
-padding: 20px;
 text-align: justify;
 font-family: 'Raleway', sans-serif;
 
@@ -47,20 +46,24 @@ img.foto-grande{
 }
 .last {
 	background-color: #F5B7B1;
+	padding-bottom: 10px;
+}
+.maledetto {
+	padding-top:100px;
 }
 h2{
 	text-align: center;
 	font-style: italic;
 	font-size: 26px;
 	font-family: 'Raleway', sans-serif;
-	padding: 20px;
+	padding-bottom: 30px;
 	background-color: white;
 }
 p{
 	text-align: center;
 	font-size: 17px;
 	font-family: 'Raleway', sans-serif;
-	padding-bottom: 20px;
+	
 }
 ol, ul{
 	text-align: center;
