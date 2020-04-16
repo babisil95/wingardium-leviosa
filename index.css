@@ -58,6 +58,7 @@ h2{
 	font-family: 'Raleway', sans-serif;
 	padding: 10px;
 	background-color: white;
+	justify-content: center;
 }
 p{
 	text-align: center;
