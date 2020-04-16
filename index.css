@@ -45,6 +45,9 @@ img.foto-grande{
 	font-size: 17px;
 	font-family: 'Raleway', sans-serif;
 }
+.last {
+	background-color: #F5B7B1;
+}
 h2{
 	text-align: center;
 	font-style: italic;
