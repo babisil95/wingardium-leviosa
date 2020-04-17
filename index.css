@@ -5,13 +5,16 @@ html, body{
 header{
 	background-image:url(https://images.pexels.com/photos/358904/pexels-photo-358904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 background-color:#E9967A;
-
+    max-width:100%;
+    height:auto;
 }
+
 h1{
 	font-family: 'Raleway', sans-serif;
 	font-size: 30px
 	color:#556B2F;
 	text-align: center;
+	padding: 30px;
 }
 header img{
     height:auto;
