@@ -3,7 +3,7 @@ html, body{
 }
 
 header{
-	background-image:url(https://images.pexels.com/photos/358904/pexels-photo-358904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-image:url(https://images.pexels.com/photos/4033578/pexels-photo-4033578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 background-color:#E9967A;
     max-width:100%;
     height:auto;
@@ -17,13 +17,16 @@ h1{
 	padding: 30px;
 }
 header img{
-    height:auto;
+	position: relative;
+	top: 30px;
+    height: auto;
     width: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 180px;
     border: 15px solid #CD5C5C;
+
 }
 .content{
 max-width: auto;
