@@ -8,6 +8,11 @@ background-color:#E9967A;
     max-width:100%;
     height:auto;
 }
+@media (max-width: 768px) {
+    h1 {
+        font-size: 20px;
+    }
+}
 
 h1{
 	font-family: 'Raleway', sans-serif;
