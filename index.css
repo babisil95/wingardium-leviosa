@@ -15,8 +15,6 @@ h1{
 	color:#556B2F;
 	text-align: center;
 	padding: 30px;
-	display: flex;
-	flex-direction: column;
 }
 header img{
 	position: relative;
