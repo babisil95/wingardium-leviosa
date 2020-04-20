@@ -8,11 +8,6 @@ background-color:#E9967A;
     max-width:100%;
     height:auto;
 }
-@media (max-width: 768px) {
-    h1 {
-        font-size: 20px;
-    }
-}
 
 h1{
 	font-family: 'Raleway', sans-serif;
@@ -42,8 +37,6 @@ justify-content: center;
 font-family: 'Raleway', sans-serif;
 padding-left: 10px;
 padding-right: 10px;
-display: flex;
-flex-direction: column;
 }
 img.foto-grande{
 	max-width: 100%;
@@ -90,8 +83,6 @@ footer{
 	text-align: center;
 	font-size: 17px;
 	padding: 15px;
-	display: flex;
-	flex-direction: column;
 }
 .quote{
 	text-align: center;
