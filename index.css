@@ -15,6 +15,8 @@ h1{
 	color:#556B2F;
 	text-align: center;
 	padding: 30px;
+	display: flex;
+	flex-direction: column;
 }
 header img{
 	position: relative;
@@ -33,11 +35,12 @@ max-width: auto;
 margin: auto; 
 background: linear-gradient(35deg, #ccffff, #ffcccc);
 text-align: justify;
+justify-content: center;
 font-family: 'Raleway', sans-serif;
 padding-left: 10px;
 padding-right: 10px;
-
-
+display: flex;
+flex-direction: column;
 }
 img.foto-grande{
 	max-width: 100%;
@@ -68,12 +71,11 @@ h2{
 	padding-bottom: 30px;
 	background-color: white;
 	justify-content: center;
-}
+	}
 p{
 	text-align: center;
 	font-size: 17px;
 	font-family: 'Raleway', sans-serif;
-	
 }
 ol, ul{
 	text-align: center;
@@ -85,6 +87,8 @@ footer{
 	text-align: center;
 	font-size: 17px;
 	padding: 15px;
+	display: flex;
+	flex-direction: column;
 }
 .quote{
 	text-align: center;
